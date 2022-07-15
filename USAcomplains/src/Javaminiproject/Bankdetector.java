@@ -1,5 +1,7 @@
 package Javaminiproject;
 
+checked
+
 import java.util.Scanner;
 
 public class Bankdetector {
